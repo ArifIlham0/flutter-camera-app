@@ -1,6 +1,36 @@
-# camera_app
+<h2 align="center">
+  Flutter App<br/>
+  <a>Camera App</a>
+</br>
+  <a href="https://www.arifilham.my.id" target="_blank">By Muhammad Arif Ilham</a>
+</h2>
 
-A new Flutter project.
+Aims to provide a seamless and user-friendly experience for capturing photos and videos on mobile devices. 
+
+## Screenshots
+
+</br>
+
+<center>
+
+![cameraApp1](https://github.com/ArifIlham0/flutter-camera-app/assets/90549963/6ae36a92-c0ae-4795-93a7-3dac276c10be)
+![cameraApp2](https://github.com/ArifIlham0/flutter-camera-app/assets/90549963/4af46c9f-f8b1-483e-b5cc-13b04826f438)
+
+</center>
+
+<br/>
+
+<h3 align="center">
+    <a href="https://github.com/ArifIlham0/flutter-camera-app/issues">Report Bug</a> &nbsp; &nbsp;
+</h3>
+
+## Built With
+
+This project was built using these technologies.
+
+- Flutter
+- Dart
+- Android Studio
 
 ## Getting Started
 
